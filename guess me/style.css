@@ -1,0 +1,20 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    font-family: 'Papyrus', fantasy;
+    font-size: large;
+}
+
+.display_inline {
+    display: outside;
+    padding: 0.5em;
+}
+
+div {   
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 300px;    
+  }
+img {
+    border-radius: 50%;
+  }
